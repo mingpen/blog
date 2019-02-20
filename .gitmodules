@@ -1,0 +1,4 @@
+[submodule "public"]
+	path = public
+	url = https://github.com/mingpen/mingpen.github.io.git
+	branch = master
